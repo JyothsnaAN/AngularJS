@@ -1,0 +1,19 @@
+TestCase
+
+
+Title: TMDB Movie App 
+
+Description: A user should enter the valid movie name in the textbox and then click on the submit button.
+
+Precondition: The user must know the valid movie names which TMDB displays on its site.
+
+Assumption: A supported browser is being used.
+
+Test Steps:
+
+    Navigate to a web browser
+    In the textbox field, enter the valid movie name.
+    Click the submit button.
+    
+
+Expected Result: A page displaying all the details of the particular movie.
